@@ -14,11 +14,11 @@
   link: /contacto/
   new_window: false
   highlight: false
-- name: Login
+- name: Ingresar
   link: /
   new_window: true
   highlight: false
-- name: Sign Up
+- name: Darse de alta
   link: /
   new_window: true
   highlight: true
